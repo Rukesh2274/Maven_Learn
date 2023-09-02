@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [12/Aug/2023:12:12:17 +0530] "GET /WebAppMaven HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [12/Aug/2023:12:12:18 +0530] "GET /WebAppMaven/ HTTP/1.1" 200 51 http-bio-8080-exec-2 597
+0:0:0:0:0:0:0:1 - - [12/Aug/2023:12:12:18 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [12/Aug/2023:12:12:18 +0530] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [12/Aug/2023:12:12:18 +0530] "GET /apple-touch-icon.png HTTP/1.1" 404 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [12/Aug/2023:12:14:00 +0530] "GET /WebAppMaven/ HTTP/1.1" 200 52 http-bio-8080-exec-8 137
